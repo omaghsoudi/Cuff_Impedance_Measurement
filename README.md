@@ -14,4 +14,5 @@ To run the code, you need to open "GUI_Cuff.m" in Matlab. It has been tested in 
 
 The following link contains a sample file recorded from a cuff:
 https://drive.google.com/file/d/1Gn4Kanl58Dm9lGmccmd0EXV8uRZQFRFJ/view?usp=sharing
-It can be copied to the code directory or being loaded from any directory while running the code.
+
+It can be copied into the code directory, or it can be loaded from any directory while running the code.
