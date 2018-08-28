@@ -1,6 +1,6 @@
 # Cuff-Impedance-Measurement
 
-This repository is based on pulished work in the Journal of NeuroScience, 2018.
+This repository is based on pulished work in the Journal of NeuroScience Methods, 2018.
 It can measure cuff and electrodes impedances and fit the measured data to simplified Randles model.
 
 
