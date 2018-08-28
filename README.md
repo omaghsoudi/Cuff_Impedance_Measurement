@@ -1,4 +1,4 @@
-# Matlab based software to measure impedance of electrical cuffs or electrodes 
+# Open-source Matlab based software to measure impedance of electrical cuffs or electrodes 
 
 This repository is based on our pulished work by the Journal of NeuroScience Methods, 2018.
 It can measure the impedance of electrical cuffs and electrodes and fit the measured data to simplified Randles model.
