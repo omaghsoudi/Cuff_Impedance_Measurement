@@ -4,7 +4,7 @@ This repository is based on our pulished work by the Journal of NeuroScience Met
 It can measure the impedance of electrical cuffs and electrodes and fit the measured data to simplified Randles model.
 
 
-Please check the follwoing paper for more details:
+Please check the follwoing paper for more details about the parameters, modes for running the code, and fitting method:
 
 https://doi.org/10.1016/j.jneumeth.2018.06.020
 
