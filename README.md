@@ -16,3 +16,15 @@ The following link contains a sample file recorded from a cuff:
 https://drive.google.com/file/d/1Gn4Kanl58Dm9lGmccmd0EXV8uRZQFRFJ/view?usp=sharing
 
 It can be copied into the code directory, or it can be loaded from any directory while running the code.
+
+GUI:
+![image](https://github.com/omaghsoudi/Matlab-Cuff-Impedance-Measurement/blob/master/GUI.png)
+
+Fitting mode:
+![image](https://github.com/omaghsoudi/Matlab-Cuff-Impedance-Measurement/blob/master/Fitting_mod.png)
+
+Fitted Impednace mode:
+![image](https://github.com/omaghsoudi/Matlab-Cuff-Impedance-Measurement/blob/master/Fitting_Imp.png)
+
+Error analysis:
+![image](https://github.com/omaghsoudi/Matlab-Cuff-Impedance-Measurement/blob/master/Errors.png)
